@@ -18,7 +18,7 @@ const About = () => {
                             Hi, my name is <span className="yellow">Dhiraj Dhiman... </span>
                             <br />
                             <br />
-                            Graduated Engineering College Bikaner in 2023.
+                            Graduated from Engineering College Bikaner in 2023.
                             <br />
                             <br />
                             As a<b className="yellow"> FrontEnd Developer </b>developer, I enjoy tackling new challenges and continuously expanding my skillset.
